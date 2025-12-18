@@ -7,7 +7,7 @@ A comprehensive redesign of the Egyptian Tansik (Coordination) Government Websit
 - Abdelgawad Mohamed Abdelgwad
 - Ahmed Abdelmageed Atia Zalat
 - Eman Sherif Abdelwanis Gabr
-- Hamdy Nashat Eid Saleh Dohim
+- Hamdy Nashat Eid Saleh Dohem
 - Mohamed Ali Elshahat Abohelal
 - Sama Mohamed Roshdy Mohamed
 
