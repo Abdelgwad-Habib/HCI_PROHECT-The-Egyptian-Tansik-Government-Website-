@@ -33,7 +33,7 @@ The original Tansik website served its functional purpose but failed significant
 ### 2. Memory & Recognition
 
 - **Recognition vs. Recall**: Replaced complex text links with recognizable Icons. This triggers recognition, which is cognitively faster than recalling the purpose of a specific text link.
-- **Reducing Working Memory Load**: Organized information into small "chunks" ($7 \pm 2$ items) to prevent overloading the student's short-term memory.
+- **Reducing Working Memory Load**: Organized information into small "chunks" (7±2 items) to prevent overloading the student's short-term memory.
 
 ### 3. Bridging the Gulfs (Norman's 7 Stages)
 
