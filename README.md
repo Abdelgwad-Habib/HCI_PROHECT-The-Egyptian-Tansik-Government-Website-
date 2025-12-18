@@ -59,7 +59,6 @@ The redesign adopts a modern WIMP (Windows, Icons, Menus, Pointers) interface:
 
 ## 💻 Technologies Used
 
-- **Frontend**: HTML5, CSS3 (Flexbox/Grid), JavaScript.
 - **Design Tools**: Figma/Adobe XD (for prototyping).
 - **Principles**: HCI Heuristics, User-Centered Design.
 
